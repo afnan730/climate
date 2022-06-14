@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42807884720",
+    "project_id": "climate-d6970",
+    "storage_bucket": "climate-d6970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42807884720:android:60f1547c760dd9dce43475",
+        "android_client_info": {
+          "package_name": "com.example.climate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42807884720-skr9mj45djuv96im0f3tkt08ohl9is71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXltRdg9RuTbJ0t6ryhueSRn4QIcik-tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42807884720-skr9mj45djuv96im0f3tkt08ohl9is71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
